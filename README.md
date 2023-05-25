@@ -1,4 +1,4 @@
-#### _Olá, eu sou o Rennan!_
+#### **Olá, eu sou o Rennan!**
 
 Sou estudante de Engenharia de Software na Universidade de Brasília, 
 e atualmente estou buscando aprimorar minhas habilidades em C e Python. 
