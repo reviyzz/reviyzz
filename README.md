@@ -1,16 +1,17 @@
-### Hi there 👋
+#### _Olá, eu sou o Rennan!_
 
-<!--
-**reviyzz/reviyzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software na Universidade de Brasília, 
+e atualmente estou buscando aprimorar minhas habilidades em C e Python. 
+Seja bem-vindo ao meu perfil!
 
-Here are some ideas to get you started:
+</div>
+<div style="display: inline_block"><br>
+  <img aling="center" alt="Revi-C" height="40" width"60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img aling="center" alt="Revi-Py" height="40" width"60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+</div>
+    <a href="https://www.linkedin.com/in/rennan-vieira-a7255a199/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank"></a>
+</div>
